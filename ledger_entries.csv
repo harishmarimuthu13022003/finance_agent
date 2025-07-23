@@ -1,0 +1,3 @@
+Date,GL_Code,Account_Name,Account_Type,Debit,Credit,Description,Reference,Vendor_Payee,Category,Confidence
+2025-07-11,2100,Accounts Payable,Liability,,75000.0,"=?UTF-8?Q?Request_to_Raise_Invoice_for_Consulting_Services_=E2=80=93?=
+	=?UTF-8?Q?_June_2025?=",for,Gmail,Invoice,0.6
